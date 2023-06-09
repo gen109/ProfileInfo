@@ -27,8 +27,4 @@
 
 [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[visitor-badge](https://github.com/jwenjian/visitor-badge)
-
 
