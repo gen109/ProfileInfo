@@ -4,6 +4,8 @@
 ### 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,js,html,css,py,git,github" />
 
+
+
 ## GitHub Readme Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gen109&theme=dracula&count_private=true" />
@@ -14,11 +16,12 @@
 
 
 ## 🏆 GitHub Profile Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gen109&theme=dracula)](https://github.com/gen109/)
 
 
 
-
+#
 ## 📚 References
 
 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
